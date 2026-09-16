@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# artefakty wyjsciowe (poza commitowana probka)
+out/*
+!out/sample_raport.pdf
+
+# lokalne / sekrety
+.env
+*.local
