@@ -1,5 +1,7 @@
 # Sprawdz auto przed zakupem (FluxLab)
 
+> Sprawdzenie auta przed zakupem w przeglądarce: [fluxlab.pl/sprawdz-auto](https://fluxlab.pl/sprawdz-auto?utm_source=github&utm_campaign=fluxlab-auto-due-diligence)
+
 Narzedzie CLI, ktore dla oferty auta uzywanego (Otomoto URL albo wklejone dane) generuje
 1-stronicowy raport PDF due-diligence dla kupujacego. Zamiast czytac dziesiatki ogloszen i
 zgadywac, czy cena jest uczciwa i czego szukac, dostajesz konkretna analize na jednej stronie.
